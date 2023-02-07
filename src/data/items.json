@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Jewelry",
+        "price": 69.99,
+        "imgUrl": "../public/images/joia.png"
+    },
+    {
+        "id": 2,
+        "name": "Amano",
+        "price": 24.99,
+        "imgUrl": "../public/images/amano.png"
+    },
+    {
+        "id": 3,
+        "name": "Classes",
+        "price": 37.99,
+        "imgUrl": "../public/images/classes.png"
+    },
+    {
+        "id": 4,
+        "name": "Macha",
+        "price": 14.99,
+        "imgUrl": "../public/images/macha.png"
+    },
+    {
+        "id": 5,
+        "name": "Assoluta",
+        "price": 29.99,
+        "imgUrl": "../public/images/assoluta.png"
+    },
+    {
+        "id": 6,
+        "name": "Act Green",
+        "price": 49.99,
+        "imgUrl": "../public/images/actgreen.png"
+    }
+]
